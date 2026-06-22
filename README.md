@@ -1,5 +1,5 @@
 <a href="https://github.com/nawinprasath">
-type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Nawin%20Prasath%20S&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20%26%20Data%20Science%20Student%20%7C%20Python%20Developer%20%7C%20ML%20Explorer&descAlignY=58&descSize=17" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Nawin%20Prasath%20S&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=AI%20%26%20Data%20Science%20Student%20%7C%20Python%20Developer%20%7C%20ML%20Explorer&descAlignY=58&descSize=17" />
 </a>
 
 <div align="center">
