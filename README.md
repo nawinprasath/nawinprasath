@@ -27,14 +27,14 @@
 ```python
 class NawinPrasath:
 
-    name       = "Nawin Prasath S"
-    location   = "Tamil Nadu, India 🇮🇳"
-    degree     = "B.Tech – Artificial Intelligence & Data Science"
-    college    = "St. Joseph's College of Engineering & Technology, Thanjavur"
-    batch      = "2023 – 2027"
-    email      = "nawinprasath2023@gmail.com"
+    Name       = "Nawin Prasath S"
+    Location   = "Tamil Nadu, India 🇮🇳"
+    Degree     = "B.Tech – Artificial Intelligence & Data Science"
+    College    = "St. Joseph's College of Engineering & Technology, Thanjavur"
+    Batch      = "2023 – 2027"
+    Email      = "nawinprasath2023@gmail.com"
 
-    stack = [
+    Stack = [
         "Python", "Machine Learning",
         "Deep Learning", "Generative AI",
         "HTML", "CSS"
