@@ -72,17 +72,6 @@ class NawinPrasath:
 <div align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=nawinprasath&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&radius=8" />
 </div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <a href="https://github.com/nawinprasath">
-    <img src="https://github-profile-trophy.vercel.app/?username=nawinprasath&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8&margin-h=8" />
-  </a>
-</div>
-
 ---
 
 ## 🚀 Featured Projects
