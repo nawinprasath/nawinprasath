@@ -114,8 +114,7 @@ class NawinPrasath:
 
 ## 🏆 Trophy Wall
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nawinprasath&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=nawinprasath&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
 </div>
 
 ---
