@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nawin%20Prasath%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Data%20Science%20Student%20|%20Machine%20Learning%20%7C%20Python%20%7C%20Generative%20AI&descAlignY=62&descSize=16" width="100%"/>
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=B.Tech+AI+%26+Data+Science+Student;Machine+Learning+%7C+Python+%7C+Generative+AI;Building+AI-Powered+Solutions;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 
