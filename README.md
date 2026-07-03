@@ -1,282 +1,175 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Nawin%20Prasath%20S&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Engineer%20in%20the%20Making&descAlignY=55&descSize=20&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Nawin%20Prasath%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20Data%20Science%20Student%20|%20Machine%20Learning%20%7C%20Python%20%7C%20Generative%20AI&descAlignY=62&descSize=16" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=800&lines=AI+%26+Data+Science+Student;Machine+Learning+Enthusiast;Generative+AI+Explorer;Python+Developer;Open+Source+Learner" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=B.Tech+AI+%26+Data+Science+Student;Machine+Learning+%7C+Python+%7C+Generative+AI;Building+AI-Powered+Solutions;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 
-<br/>
-
-<a href="https://jayasrisjcetaids-ops.github.io/JS-Portfolio/"><img src="https://img.shields.io/badge/🌐_Portfolio-8B5CF6?style=for-the-badge&logoColor=white"/></a>
-<a href="https://linkedin.com/in/nawin-prasath-s"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:nawinprasath2023@gmail.com"><img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/nawinprasath"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=nawinprasath&label=Profile%20Views&color=8B5CF6&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/nawinprasath?label=Followers&style=for-the-badge&color=A78BFA&labelColor=1a1a2e"/>
-<img src="https://img.shields.io/github/stars/nawinprasath?label=Stars&style=for-the-badge&color=60A5FA&labelColor=1a1a2e"/>
-
-<br/><br/>
-
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="450"/>
+<img src="https://komarev.com/ghpvc/?username=nawinprasath&label=Profile%20Views&color=70a5fd&style=flat-square" alt="profile views"/>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=0:8B5CF6,100:3B82F6&section=footer" width="100%"/>
-
-<h2 align="center">✨ About Me</h2>
-
-<table align="center" width="90%">
-<tr>
-<td width="50%" valign="top">
-
-<div align="center">
-
-### 👤 Identity
-
-| | |
-|---|---|
-| 🧑‍💻 **Name** | Nawin Prasath S |
-| 🎓 **Degree** | B.Tech – AI & Data Science |
-| 🏫 **College** | St. Joseph's College of Engineering & Technology, Thanjavur |
-| 📍 **Location** | Tamil Nadu, India |
-
-</div>
-
-</td>
-<td width="50%" valign="top">
-
-<div align="center">
-
-### 🚀 Focus
-
-| | |
-|---|---|
-| 💻 **Tech Stack** | Python · ML · Generative AI |
-| 🎯 **Current Focus** | AI/ML Model Building |
-| 🌱 **Learning** | Deep Learning & GenAI Apps |
-| ⚡ **Fun Fact** | I turn phishing URLs into training data |
-
-</div>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=0:3B82F6,100:8B5CF6&section=footer" width="100%"/>
-
-<h2 align="center">🧠 Tech Stack</h2>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,html,css,js,bootstrap,git,github,vscode,jupyter,tensorflow&theme=dark" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Pandas-8B5CF6?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-3B82F6?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit_Learn-A78BFA?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Machine_Learning-6D28D9?style=for-the-badge&logo=brain&logoColor=white"/>
-<img src="https://img.shields.io/badge/Generative_AI-4C1D95?style=for-the-badge&logo=openai&logoColor=white"/>
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=0:8B5CF6,100:3B82F6&section=footer" width="100%"/>
-
-<h2 align="center">🌟 Featured Projects</h2>
-
-<table align="center" width="95%">
-<tr>
-<td width="50%" valign="top">
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/machine-learning/machine-learning.png" width="60" height="60"/>
-
-### 🛡️ AI-Based Phishing URL Detection
-
-Machine Learning model that detects phishing websites using URL-based features. Includes data preprocessing, feature engineering, and model training for accurate classification of malicious vs. legitimate URLs.
-
-**Tech:** `Python` `Pandas` `Scikit-Learn`
-
-<a href="https://github.com/nawinprasath"><img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-</div>
-
-</td>
-<td width="50%" valign="top">
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/github/explore/main/topics/portfolio/portfolio.png" width="60" height="60" onerror="this.style.display='none'"/>
-
-### 🌐 Portfolio Website
-
-A personal portfolio website showcasing projects, skills, and achievements — designed to be clean, responsive, and recruiter-friendly.
-
-**Tech:** `HTML` `CSS` `JavaScript`
-
-<a href="https://jayasrisjcetaids-ops.github.io/JS-Portfolio/"><img src="https://img.shields.io/badge/Live_Demo-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://github.com/nawinprasath"><img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-</div>
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-
-<br/>
-
-### 🔮 More AI Projects — Coming Soon
-
-New Machine Learning & Generative AI projects are currently in the pipeline. Stay tuned! 🚀
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=0:3B82F6,100:8B5CF6&section=footer" width="100%"/>
-
-<h2 align="center">🏆 Certifications</h2>
-
-<table align="center" width="90%">
-<tr>
-<td align="center" width="25%">
-
-**🤖 IBM**
-AI Fundamentals
-
-</td>
-<td align="center" width="25%">
-
-**📊 Infosys Springboard**
-Big Data 101 & 301
-
-</td>
-<td align="center" width="25%">
-
-**✨ Generative AI**
-Kodacy Certification
-
-</td>
-<td align="center" width="25%">
-
-**🧠 NoviTech**
-AI MasterClass + Excel Dashboards
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=0:8B5CF6,100:3B82F6&section=footer" width="100%"/>
-
-<h2 align="center">📈 GitHub Analytics</h2>
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=nawinprasath&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9&border_radius=15"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawinprasath&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9&langs_count=8&border_radius=15"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=nawinprasath&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=60A5FA&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=15"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nawinprasath&theme=tokyo-night&bg_color=0d1117&color=A78BFA&line=8B5CF6&point=60A5FA&area=true&hide_border=true" width="95%"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=nawinprasath&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nawinprasath&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nawinprasath&theme=tokyonight"/>
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nawinprasath&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nawinprasath&theme=tokyonight"/>
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=0:3B82F6,100:8B5CF6&section=footer" width="100%"/>
-
-<h2 align="center">☕ Coding Corner</h2>
-
-<table align="center" width="90%">
-<tr>
-<td width="50%" align="center" valign="top">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
-
-</td>
-<td width="50%" align="center" valign="top">
-
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%"/>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-<br/><br/>
-
-<img src="https://readme-jokes.vercel.app/api?theme=dark"/>
-
-</div>
-
-<div align="center">
-
-### 🗺️ Current Learning Roadmap
-
-```text
-🧱 Deep Learning     →  Neural Networks · CNNs · Model Optimization
-🧠 Generative AI     →  LLMs · Prompt Engineering · AI Applications
-📊 Big Data          →  Data Pipelines · Dashboards · Analytics
+## 💻 About Me
+
+<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+```python
+class NawinPrasath:
+    def __init__(self):
+        self.name = "Nawin Prasath S"
+        self.location = "Thanjavur, Tamil Nadu, India"
+        self.degree = "B.Tech - Artificial Intelligence & Data Science"
+        self.stack = {
+            "languages": ["Python", "HTML", "CSS"],
+            "ai_ds": ["Machine Learning", "Deep Learning", "Generative AI"],
+            "tools": ["GitHub", "VS Code", "Jupyter Notebook"]
+        }
+        self.currently_learning = [
+            "Advanced Deep Learning",
+            "Generative AI Applications",
+            "Big Data Fundamentals"
+        ]
+        self.fun_fact = "I turn phishing URLs into training data 🎣📊"
+
+    def motto(self):
+        return "Learn. Build. Improve. Repeat."
+
+me = NawinPrasath()
+print(me.motto())
 ```
 
+<br clear="right"/>
+
+## 🛠️ Tech Stack
+
+**Languages**
+<p> 
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+</p>
+
+**AI & Data Science**
+<p>
+  <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-412991?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+</p>
+
+**Tools**
+<p>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+</p>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/nawinprasath">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nawinprasath&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+  </a>
+  <a href="https://github.com/nawinprasath">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawinprasath&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=nawinprasath&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nawinprasath&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nawinprasath&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=0:8B5CF6,100:3B82F6&section=footer" width="100%"/>
+## 💼 Learning & Activities
 
-<h2 align="center">📬 Let's Connect</h2>
+<details>
+<summary><b>🎓 Academic Learning & Activities — B.Tech AI & Data Science | St.Joseph's College of Engineering and Technology, Thanjavur</b></summary>
+<br/>
+
+> `Machine Learning` `Python` `Generative AI` `Problem Solving`
+
+- Explored Machine Learning concepts and their real-world applications
+- Practiced Python programming and algorithmic problem-solving
+- Learned the basics of Generative AI tools and workflows
+- Built hands-on projects to strengthen practical AI/ML skills
+
+</details>
+
+<br/>
+
+## 🚀 Featured Projects
 
 <div align="center">
 
-<a href="https://jayasrisjcetaids-ops.github.io/JS-Portfolio/"><img src="https://img.shields.io/badge/🌐_Portfolio-8B5CF6?style=for-the-badge&logoColor=white"/></a>
-<a href="https://linkedin.com/in/nawin-prasath-s"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/nawinprasath"><img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="mailto:nawinprasath2023@gmail.com"><img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-<br/><br/>
-
-### 💜 "Learn. Build. Improve. Repeat."
+| Project | Stack | Highlights |
+|---|---|---|
+| **[AI-Based Phishing URL Detection](https://github.com/nawinprasath)** | Python, Pandas, Scikit-Learn | Built an ML model to classify phishing vs. legitimate URLs using URL-based features; handled data preprocessing, feature engineering & model training with accurate classification results |
+| **[Simple Chatbot (Mini Project)](https://github.com/nawinprasath)** | Python, Rule-Based NLP | Designed a rule-based chatbot with predefined conversational flows for user interaction, deepening understanding of chatbot development fundamentals |
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer&animation=twinkling" width="100%"/>
+<br/>
+
+## 🏆 Achievements
+
+<div align="center">
+
+| 🏅 | Achievement | Details |
+|---|---|---|
+| 🤖 | IBM – Artificial Intelligence Fundamentals | Certification in core AI concepts |
+| 📊 | Infosys Springboard – Big Data 101 & 301 | Two-level Big Data certification track |
+| ✨ | Generative AI Certification | Issued by Kodacy |
+| 🧠 | Artificial Intelligence MasterClass | Issued by NoviTech |
+| 📈 | From Raw Data to Dynamic Dashboards in Excel | Issued by NoviTech |
+
+</div>
+
+<br/>
+
+## 🎓 Education
+
+<div align="center">
+
+| Degree | Institution | Year | Score |
+|---|---|---|---|
+| B.Tech – Artificial Intelligence & Data Science | St. Joseph's College of Engineering and Technology, Thanjavur | — | CGPA: 7.77 |
+| Higher Secondary Education (HSC) | Government Higher Secondary School, Kattumavadi | — | 74.33% |
+
+</div>
+
+### 📚 Currently Learning
+
+```text
+🧱 Deep Learning       → Neural Networks, CNNs, Model Optimization
+🧠 Generative AI       → LLMs, Prompt Engineering, AI Applications
+📊 Big Data            → Data Pipelines, Dashboards, Analytics
+```
+
+### 🌐 Languages
+
+`Tamil (Native)` &nbsp;|&nbsp; `English (Professional Working Proficiency)`
+
+<br/>
+
+## 📫 Connect with Me
+
+<p align="center">
+  <a href="mailto:nawinprasath2023@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/nawin-prasath-s"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/nawinprasath"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
