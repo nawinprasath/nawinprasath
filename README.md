@@ -1,14 +1,9 @@
 <div align="center">
-
-
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=B.Tech+AI+%26+Data+Science+Student;Machine+Learning+%7C+Python+%7C+Generative+AI;Building+AI-Powered+Solutions;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="380" src="(https://i.pinimg.com/736x/7c/d0/46/7cd04635c46473cacc69d8b57fab39b8.jpg)"/>
 </div>
-
 <br/>
-
 ## 💻 About Me
 
 <img align="[right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif](https://i.pinimg.com/736x/ac/2e/ea/ac2eea7ff7c76aff36c2e7a090f7018f.jpg)"/>
