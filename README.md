@@ -17,6 +17,10 @@
 <img src="https://img.shields.io/github/followers/nawinprasath?label=Followers&style=for-the-badge&color=A78BFA&labelColor=1a1a2e"/>
 <img src="https://img.shields.io/github/stars/nawinprasath?label=Stars&style=for-the-badge&color=60A5FA&labelColor=1a1a2e"/>
 
+<br/><br/>
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="450"/>
+
 </div>
 
 <br/>
@@ -201,6 +205,16 @@ AI MasterClass + Excel Dashboards
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nawinprasath&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nawinprasath&theme=tokyonight"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nawinprasath&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nawinprasath&theme=tokyonight"/>
+
 </div>
 
 <br/>
@@ -213,12 +227,18 @@ AI MasterClass + Excel Dashboards
 <tr>
 <td width="50%" align="center" valign="top">
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
 
 </td>
 <td width="50%" align="center" valign="top">
 
-<br/>
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
@@ -226,9 +246,7 @@ AI MasterClass + Excel Dashboards
 
 <img src="https://readme-jokes.vercel.app/api?theme=dark"/>
 
-</td>
-</tr>
-</table>
+</div>
 
 <div align="center">
 
