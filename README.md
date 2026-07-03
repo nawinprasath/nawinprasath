@@ -12,7 +12,7 @@
 
 ## 💻 About Me
 
-<img align="right" width="380" src="[https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif](https://i.pinimg.com/736x/7c/d0/46/7cd04635c46473cacc69d8b57fab39b8.jpg)"/>
+<img align="right" width="380" src="https://i.pinimg.com/736x/7c/d0/46/7cd04635c46473cacc69d8b57fab39b8.jpg"/>
 
 ```python
 class NawinPrasath:
